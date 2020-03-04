@@ -34,6 +34,13 @@ DOB 29 oct 1975
   - Russian - native
   - English - intermediate
   
+### Summary 
+At the moment I have some experience in development for Android OS, but I need to improve my knowledge in this area. I am open for 
+learning modern technologies and study new approaches in programming.
+My long-term goal is to become a professional Android developer 
+because more than anything I like writing code, find and fix bugs. 
+I enjoy create new features and watch how they work. Moreover, I believe, that it will help me to build a great career in the future.  
+  
 ### Interests
   - Machine learning
   - Fitness
