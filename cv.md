@@ -13,6 +13,7 @@ DOB 29 oct 1975
 
 ### Trainings
   - EPAM Automated Testing Training, 2018  
+  Hometasks - [Test Automation Framework](https://bitbucket.org/andreyam/gtat2018q3_andrei_maskouchanka/branches/) 
 
 ### Technical experience
   - Languages: Java, Kotlin, SQL 
