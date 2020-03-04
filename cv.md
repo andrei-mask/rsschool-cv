@@ -14,14 +14,14 @@ DOB 29 oct 1975
 ### Trainings
   - EPAM Automated Testing Training, 2018  
 
-#### Technical experience
-  Languages: Java, Kotlin, SQL <br>
-  Platforms: Windows, Linux, Android, Firebase <br>
-  Build tools: Gradle, Maven <br>
-  IDE: IntelliJ IDEA, Android Studio <br>
-  Testing tools: TestNG, JUnit, Selenium, Cypress <br>
-  VCS: Git, BitBucket <br>
-  Other tools: Jenkins, Jira <br>
+### Technical experience
+  - Languages: Java, Kotlin, SQL 
+  - Platforms: Windows, Linux, Android, Firebase 
+  - Build tools: Gradle, Maven 
+  - IDE: IntelliJ IDEA, Android Studio
+  - Testing tools: TestNG, JUnit, Selenium, Cypress
+  - VCS: Git, BitBucket 
+  - Other tools: Jenkins, Jira 
   
 ### Work experience
   - Software Test Automation Engeneer, EPAM, 2019-Present <br>
